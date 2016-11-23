@@ -2481,7 +2481,7 @@
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("../../images/congruent_pentagon.PNG");
+		background-image: url("images/overlay.png"), url("../../images/congruent_pentagon.png");
 		background-position: top left,							top left;
 		background-repeat: repeat,								repeat;
 		background-size: auto,								auto 100%;
