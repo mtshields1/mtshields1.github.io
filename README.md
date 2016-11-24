@@ -13,3 +13,4 @@ This web page is a modified version of HTML5 UP! Strata template
 -Changed the title web tab to Michael Shields Main</br>
 -Changed the More Info button below my bio to a My Resume button that redirects to my resume</br>
 -Changed the avatar picture</br>
+-Removed the message sending functionality in the Contact section</br>
